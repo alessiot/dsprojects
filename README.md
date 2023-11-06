@@ -1,12 +1,19 @@
-# alessiot-dsprojects.github.io
+# dsprojects.github.io
 
-Directions
+1. Create a GitHub repository, make it public
 
-https://www.linkedin.com/pulse/unleashing-your-digital-potential-crafting-portfolio-github-elizaldi
+2. Clone it 
 
-style from here https://html5up.net/
+3. Download a style from the freely available html5 styles (here)[https://html5up.net/]
 
-unzip .... move files to repo
+4. Unzip and move unzipped content to the cloned repo
 
-Photo by <a href="https://unsplash.com/@neom?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">NEOM</a> on <a href="https://unsplash.com/photos/a-person-standing-on-top-of-a-mountain-at-sunset-uqAUg1zvMXQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-  
+5. Free photos are available at (Unsplash)[https://unsplash.com/]
+
+6. Commit code
+
+7. Under settings of your repo, go to Pages and select source and branch for deploying your page
+
+Photo by <a href="https://unsplash.com/@pawel_czerwinski?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Pawel Czerwinski</a> on <a href="https://unsplash.com/photos/a-black-and-white-photo-of-wavy-lines-oIT3X1oPtFA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+
