@@ -14,6 +14,8 @@
 
 7. Under settings of your repo, go to Pages and select source and branch for deploying your page
 
+Inspired by this (article)[https://www.linkedin.com/pulse/unleashing-your-digital-potential-crafting-portfolio-github-elizaldi].
+
 Photo by <a href="https://unsplash.com/@pawel_czerwinski?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Pawel Czerwinski</a> on <a href="https://unsplash.com/photos/a-black-and-white-photo-of-wavy-lines-oIT3X1oPtFA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 
