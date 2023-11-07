@@ -2378,6 +2378,7 @@ input, select, textarea {
 		text-decoration: none;
 		border-bottom: none;
 		position: relative;
+		transition: color 0.3s ease; /* Add a smooth color transition effect */
 	}
 
 		.icon:before {
@@ -2395,7 +2396,10 @@ input, select, textarea {
 
 		.icon > .label {
 			display: none;
-			transition: color 0.3s ease; /* Add a smooth color transition effect */
+		}
+
+		.icon:hover {
+			color: #ff6600; /* Change the color to highlight when hovering */
 		}
 
 		.icon:before {
@@ -2409,11 +2413,6 @@ input, select, textarea {
 		.icon.brands:before {
 			font-family: 'Font Awesome 5 Brands';
 		}
-
-		.icon:hover {
-			color: #ff6600; /* Change the color to highlight when hovering */
-		}
-
 
 /* Image */
 
