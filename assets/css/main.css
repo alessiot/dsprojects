@@ -3402,6 +3402,47 @@ input, select, textarea {
 			width: 55em;
 		}
 
+		#banner .inner .whereabouts {
+			margin: 1.5em 0 0 0;
+		}
+
+			#banner .inner .whereabouts li {
+				-moz-animation: nav-icons 0.5s ease-in-out forwards;
+				-webkit-animation: nav-icons 0.5s ease-in-out forwards;
+				-ms-animation: nav-icons 0.5s ease-in-out forwards;
+				animation: nav-icons 0.5s ease-in-out forwards;
+				-moz-backface-visibility: hidden;
+				-webkit-backface-visibility: hidden;
+				-ms-backface-visibility: hidden;
+				backface-visibility: hidden;
+				-moz-transform: translate3d(0,0,0);
+				-webkit-transform: translate3d(0,0,0);
+				-ms-transform: translate3d(0,0,0);
+				transform: translate3d(0,0,0);
+				display: inline-block;
+				height: 5.35em;
+				line-height: 5.885em;
+				opacity: 0;
+				position: relative;
+				top: 0;
+				width: 5.35em;
+			}
+
+				#banner .inner .whereabouts li:nth-child(1) {
+					-moz-animation-delay: 2.5s;
+					-webkit-animation-delay: 2.5s;
+					-ms-animation-delay: 2.5s;
+					animation-delay: 2.5s;
+				}
+
+				#banner .inner .whereabouts li:nth-child(2) {
+					-moz-animation-delay: 2.75s;
+					-webkit-animation-delay: 2.75s;
+					-ms-animation-delay: 2.75s;
+					animation-delay: 2.75s;
+				}
+
+
 		#banner .logo {
 			-moz-transition: opacity 2s ease, -moz-transform 1s ease;
 			-webkit-transition: opacity 2s ease, -webkit-transform 1s ease;
