@@ -3388,52 +3388,33 @@ input, select, textarea {
 		}
 
 		#banner .inner .whereabouts {
-			margin: 1.5em 0 0 0;
+			border-top: solid 2px rgba(255, 255, 255, 0.125);
+			list-style: none;
+			margin: 4em 0 2em 0;
+			padding: 2em 0 0 0;
+			width: 100%;
 		}
 
 			#banner .inner .whereabouts li {
-				-moz-animation: nav-icons 0.5s ease-in-out forwards;
-				-webkit-animation: nav-icons 0.5s ease-in-out forwards;
-				-ms-animation: nav-icons 0.5s ease-in-out forwards;
-				animation: nav-icons 0.5s ease-in-out forwards;
-				-moz-backface-visibility: hidden;
-				-webkit-backface-visibility: hidden;
-				-ms-backface-visibility: hidden;
-				backface-visibility: hidden;
-				-moz-transform: translate3d(0,0,0);
-				-webkit-transform: translate3d(0,0,0);
-				-ms-transform: translate3d(0,0,0);
-				transform: translate3d(0,0,0);
+				border-left: solid 2px rgba(255, 255, 255, 0.125);
+				color: rgba(255, 255, 255, 0.35);
 				display: inline-block;
-				height: 5.35em;
-				line-height: 5.885em;
-				opacity: 0;
-				position: relative;
-				top: 0;
-				width: 5.35em;
+				font-size: 0.9em;
+				line-height: 1;
+				margin-left: 1em;
+				padding: 0;
+				padding-left: 1em;
 			}
 
-				#banner .inner .whereabouts li:nth-child(1) {
-					-moz-animation-delay: 2.5s;
-					-webkit-animation-delay: 2.5s;
-					-ms-animation-delay: 2.5s;
-					animation-delay: 2.5s;
+				#banner .inner .whereabouts li:first-child {
+					border-left: 0;
+					margin-left: 0;
+					padding-left: 0;
 				}
 
-				#banner .inner .whereabouts li:nth-child(2) {
-					-moz-animation-delay: 2.75s;
-					-webkit-animation-delay: 2.75s;
-					-ms-animation-delay: 2.75s;
-					animation-delay: 2.75s;
+				#banner .inner .whereabouts li a {
+					color: inherit;
 				}
-
-			#banner .inner .whereabouts a {
-				-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-				-webkit-touch-callout: none;
-				border: 0;
-				display: inline-block;
-			}
-	
 
 		#banner .logo {
 			-moz-transition: opacity 2s ease, -moz-transform 1s ease;
