@@ -2378,7 +2378,6 @@ input, select, textarea {
 		text-decoration: none;
 		border-bottom: none;
 		position: relative;
-		transition: color 0.3s ease; /* Add a smooth color transition effect */
 	}
 
 		.icon:before {
@@ -2392,6 +2391,7 @@ input, select, textarea {
 			text-transform: none !important;
 			font-family: 'Font Awesome 5 Free';
 			font-weight: 400;
+			transition: color 0.3s ease; /* Add a smooth color transition effect */
 		}
 
 		.icon > .label {
