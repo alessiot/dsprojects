@@ -3442,12 +3442,12 @@ input, select, textarea {
 					animation-delay: 2.75s;
 				}
 
-				#banner .inner .whereabouts a {
-					-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-					-webkit-touch-callout: none;
-					border: 0;
-					display: inline-block;
-				}
+			#banner .inner .whereabouts a {
+				-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+				-webkit-touch-callout: none;
+				border: 0;
+				display: inline-block;
+			}
 	
 
 		#banner .logo {
