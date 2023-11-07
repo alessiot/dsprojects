@@ -2391,15 +2391,10 @@ input, select, textarea {
 			text-transform: none !important;
 			font-family: 'Font Awesome 5 Free';
 			font-weight: 400;
-			transition: color 0.3s ease; /* Add a smooth color transition effect */
 		}
 
 		.icon > .label {
 			display: none;
-		}
-
-		.icon:hover {
-			color: #ff6600; /* Change the color to highlight when hovering */
 		}
 
 		.icon:before {
@@ -2412,6 +2407,22 @@ input, select, textarea {
 
 		.icon.brands:before {
 			font-family: 'Font Awesome 5 Brands';
+		}
+
+		#github-icon {
+			transition: color 0.3s ease; /* Add a smooth color transition effect */
+		}
+
+		#github-icon:hover {
+			color: #ff6600; /* Change the color to highlight when hovering */
+		}
+
+		#mail-icon {
+			transition: color 0.3s ease; /* Add a smooth color transition effect */
+		}
+
+		#mail-icon:hover {
+			color: #ff6600; /* Change the color to highlight when hovering */
 		}
 
 /* Image */
