@@ -1,5 +1,7 @@
 # dsprojects.github.io
 
+This is the repository associated to my [GitHub pages](https://alessiot.github.io/dsprojects/). Some notes on how I created these pages follow. 
+
 1. Create a GitHub repository, make it public
 
 2. Clone it 
@@ -17,4 +19,4 @@
 Inspired by this (article)[https://www.linkedin.com/pulse/unleashing-your-digital-potential-crafting-portfolio-github-elizaldi].
   
 
-
+To test it locally, run <python -m http.server> in folder containing index.htmp and open http://localhost:8000 for rendering
